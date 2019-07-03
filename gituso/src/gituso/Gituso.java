@@ -19,6 +19,7 @@ public class Gituso {
         
         //escrtibir codigo
         String nada="";
+        int numero = 232;
         
         
         
